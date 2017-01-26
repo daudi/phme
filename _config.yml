@@ -9,9 +9,9 @@
 ##permalink:           pretty
 
 # Setup
-##title:               Public Health Monitoring and Evaluation
+title:               Public Health Monitoring and Evaluation
 ##tagline:             'Testing github for hosting website'
-##url:                 http://daudi.github.io
+url:                 https://daudi.github.io/
 ##baseurl:             ''
 
 theme: jekyll-theme-slate
