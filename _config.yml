@@ -14,3 +14,5 @@ tagline:             'Testing github for hosting website'
 description:         '<img src="https://raw.githubusercontent.com/simplystats/simplystats.github.io/master/public/sslogo.png" height=60 </img>  Follow us on twitter <a href="https://twitter.com/simplystats">@simplystats</a>'
 url:                 http://daudi.github.io
 baseurl:             ''
+
+theme: jekyll-theme-slate
